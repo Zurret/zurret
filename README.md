@@ -1,16 +1,23 @@
-### Hi there 👋
+# Welcome to My Personal GitHub Page!
 
-<!--
-**Zurret/zurret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm Zurret, an enthusiastic hobbyist developer deeply passionate about programming languages. Despite not having a formal education in programming, I've self-taught everything I know. I aspire to work as a web developer, particularly in PHP (Laravel), and I am committed to exploring and learning new things in pursuit of this goal.
 
-Here are some ideas to get you started:
+## Projects
+### Private Project
+- Description: A current private project under development, not intended for public release.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- PHP (Laravel)
+- JavaScript
+- HTML/CSS
+- Web Development
+
+## Contact
+- Email: zurret@pm.me
+- Twitter: [Zurret](https://x.com/zurret)
+- Bluesky: [Zurret](https://bsky.app/profile/zurret.de)
+- [More Links](https://zurret.bio.link/)
+
+## Additional Information
+Feel free to explore my projects and get in touch. I'm always open to new opportunities and collaboration!
