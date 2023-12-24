@@ -24,4 +24,4 @@ Feel free to explore my projects and get in touch. I'm always open to new opport
 
 ## Other
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zurret)
-![](https://visitcount.itsvg.in/api?id=zurret&label=Profile%20Views&color=11&icon=5&pretty=false)
+[![](https://visitcount.itsvg.in/api?id=Zurret&label=Profile%20Views&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
