@@ -11,7 +11,6 @@ I'm Zurret, an enthusiastic hobbyist developer deeply passionate about programmi
 - PHP (Laravel)
 - JavaScript
 - HTML/CSS
-- Web Development
 
 ## Contact
 - Email: zurret@pm.me
